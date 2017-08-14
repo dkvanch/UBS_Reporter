@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{02857643-C304-47E1-B43F-4B16EC1D5F2D}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="UBS_Reporter.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="UBS_Reporter">
+        <MSBuild Projects="UBS_Reporter.dproj"/>
+    </Target>
+    <Target Name="UBS_Reporter:Clean">
+        <MSBuild Projects="UBS_Reporter.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="UBS_Reporter:Make">
+        <MSBuild Projects="UBS_Reporter.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="UBS_Reporter"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="UBS_Reporter:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="UBS_Reporter:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

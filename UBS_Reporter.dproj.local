@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.109,=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.065,=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.233,=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.559,=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.031,=C:\Projects\UBS\UBS_Reporter\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,C:\Projects\UBS\UBS_Reporter\fAll_Tenders.dfm=C:\Projects\UBS\UBS_Reporter\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.211,=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,C:\Projects\UBS\UBS_Reporter\fTenders.dfm=C:\Projects\UBS\UBS_Reporter\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.179,=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.039,=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.066,=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,C:\Projects\ERP\YDisk\Common Library\UConstants.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.418,=C:\Projects\ERP\YDisk\Common Library\UConstants.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,C:\Projects\UBS\UBS_Reporter\Unit1.pas=C:\Projects\UBS\UBS_Reporter\fPays.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.519,=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,C:\Projects\UBS\UBS_Reporter\uGridValue.pas=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,C:\Projects\UBS\UBS_Reporter\Unit1.pas=C:\Projects\UBS\UBS_Reporter\fStatistic.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.419,=C:\Projects\UBS\UBS_Reporter\fDM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,C:\Projects\UBS\UBS_Reporter\fUsers_By_Category.pas=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.050,C:\Projects\UBS\UBS_Reporter\Unit1.dfm=C:\Projects\UBS\UBS_Reporter\fStatistic.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Projects\UBS\UBS_Reporter\fmain.dfm=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,=C:\Projects\UBS\Common\uInit_cx_Strings.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,C:\Projects\UBS\UBS_Reporter\fSale_User.dfm=C:\Projects\UBS\UBS_Reporter\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.579,=C:\Projects\UBS\Moderator\uCommon.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.316,C:\Projects\UBS\UBS_Reporter\Unit1.dfm=C:\Projects\UBS\UBS_Reporter\fPays.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,C:\Projects\UBS\UBS_Reporter\fUsers.dfm=C:\Projects\UBS\UBS_Reporter\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.153,C:\Projects\UBS\UBS_Reporter\fSale_User.pas=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.508,C:\Projects\UBS\UBS_Reporter\fmain.pas=C:\Users\David\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.549,C:\Projects\UBS\UBS_Reporter\fAll_Tenders.pas=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.157,C:\Projects\UBS\UBS_Reporter\fUsers.pas=C:\Projects\UBS\UBS_Reporter\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,C:\Projects\UBS\UBS_Reporter\UBS_Reporter.dproj=C:\Users\David\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,Y:\Common Library\UConstants.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,=Y:\Common Library\UConstants.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.245,C:\Projects\UBS\UBS_Reporter\fUsers_By_Category.dfm=C:\Projects\UBS\UBS_Reporter\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.524,C:\Projects\UBS\UBS_Reporter\fTenders.pas=C:\Projects\UBS\UBS_Reporter\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
